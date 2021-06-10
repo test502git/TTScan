@@ -1,8 +1,9 @@
 下载链接：https://github.com/test502git/TTScan/releases/tag/v1.0
 高速下载通道：https://d.serctl.com/
 
+
 # TTScan介绍
-此项目由pppXray升级而来，在原有基础上做了大量升级，升级后 爬虫引擎使用长亭的Rad，项目中自带Chrome，无需配置路径，Rad自动调用，漏洞扫描使用集成的Xray高级版，扫描更全面化，精细化，自动集成了各种环境，实现一键批量挖漏
+此项目由pppXray升级而来，在原有基础上做了大量升级，升级后 爬虫引擎使用长亭的Rad，项目中自带Chrome，无需配置路径，Rad自动调用，漏洞扫描使用集成的Xray高级版，自带xray-license.lic，扫描更全面化，精细化，自动集成了各种环境，实现一键批量挖漏
 支持自写poc
 下一步就是集成子域名实时监测，端口扫描，webhook通知，灯塔资产系统
 # 特点
